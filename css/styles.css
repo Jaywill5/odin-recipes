@@ -2,3 +2,24 @@ body {
     background-color: #ffd6c7;
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.link {
+    padding: 5px;
+    background-color: red;
+    margin: 2px auto;
+    width: 200px;
+    text-align: center;
+    list-style: none;
+}
+.link :hover {
+    color: yellow;
+    font-size: 20px;
+}
+
